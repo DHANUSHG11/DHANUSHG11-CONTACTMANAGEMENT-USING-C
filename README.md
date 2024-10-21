@@ -21,7 +21,7 @@ To compile and run this program, you need:
 ### Installation
 
 1. Clone the repository to your local machine:
-   ```bash
+   
 
    
 Compilation:
