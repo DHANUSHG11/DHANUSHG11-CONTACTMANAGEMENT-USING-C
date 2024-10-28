@@ -21,6 +21,7 @@ To compile and run this program, you need:
 ### Installation
 
 1. Clone the repository to your local machine:
+2. https://github.com/DHANUSHG11/DHANUSHG11-CONTACTMANAGEMENT-USING-C.git
    
 
    
